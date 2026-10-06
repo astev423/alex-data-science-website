@@ -1,0 +1,7 @@
+---
+title: "alex-data-science-website"
+---
+
+<https://quarto.org/>
+
+A website in this style seems great for documenting and explaining things to people, like explaining a science concept. It is very clean and simple.
